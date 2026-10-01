@@ -56,7 +56,59 @@ I was a police officer: shift work, reports, a lot of paperwork. In **June 2023*
   </tr>
 </table>
 
-<sub>Also shipped: zesty.bet · Iwaaant · RU4M · eKuponi · packages under <a href="https://www.npmjs.com/package/@atomic-solutions/wordpress-api-client"><code>@atomic-solutions</code></a>. Most of this lives in private repos. <a href="https://markostupar.org/#work">Case studies →</a></sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://markostupar.org/work/zesty-bet">zesty.bet</a></h4>
+      <sub><code>ONLINE CASINO & BETTING</code></sub>
+      <p>A casino and betting platform covering the player-facing product and the systems behind it, built to stay responsive under load.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://markostupar.org/work/iwaaant">Iwaaant</a></h4>
+      <sub><code>SOCIAL NETWORK</code></sub>
+      <p>A full social network platform, covering the product surface and the backend behind it, built end to end.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://markostupar.org/work/ru4m">RU4M</a></h4>
+      <sub><code>NETWORKING PLATFORM</code></sub>
+      <p>Connects industry experts through events and introductions, with AI doing the matching work. Web and mobile.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://markostupar.org/work/ekuponi-mobile">eKuponi</a></h4>
+      <sub><code>COUPONS APP</code></sub>
+      <p>A mobile app for finding and redeeming e-coupons for PlayStation and PC games.</p>
+    </td>
+  </tr>
+</table>
+
+<sub>Plus packages published under <a href="https://www.npmjs.com/package/@atomic-solutions/wordpress-api-client"><code>@atomic-solutions</code></a>. Most of this lives in private repos. <a href="https://markostupar.org/#work">Case studies →</a></sub>
+
+### `$ ls ~/clients`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://kombiprevozdamjanovic.com">Kombi Prevoz Damjanović</a></h4>
+      <sub><code>VAN TRANSPORT & MOVING</code></sub>
+      <p>Moving, furniture and goods transport across Banja Luka and BiH, with a quote request form.</p>
+      <sub>Next.js · Tailwind · React Hook Form · Zod</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://namjestajbalerina.com">Namještaj Balerina</a></h4>
+      <sub><code>CUSTOM FURNITURE</code></sub>
+      <p>Made-to-measure kitchens, wardrobes and office fit-outs, with a project gallery and consultation requests.</p>
+      <sub>Next.js · Tailwind · React Hook Form · Zod</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://kamionprevozdobrijevic.com">Kamion Prevoz Dobrijević</a></h4>
+      <sub><code>CRANE TRUCK SERVICES</code></sub>
+      <p>Crane truck hire in Banja Luka: rubble removal, soil, gravel and sand delivery, loading and pallets.</p>
+      <sub>Next.js · TypeScript</sub>
+    </td>
+  </tr>
+</table>
 
 ### `$ cat stack.txt`
 
